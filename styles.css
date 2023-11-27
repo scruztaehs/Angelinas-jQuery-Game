@@ -1,0 +1,141 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-image: url("https://i.ytimg.com/vi/ht7b2bXgwpo/maxresdefault.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.sadrejection{
+    display:none;
+    height:300px;
+    width:300px;
+}
+.teabck{
+    display:none;}
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+}
+.gt{
+display:none;}
+
+.pft{
+display:none;}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+.gtp{
+    display:none;}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+.f{
+    width:100px;
+    height:100px;
+}
+/* Check out `display:none`. What do you think it does?*/
+
+h1 {
+    font-size: 50px;
+}
+    
+.lemon{
+    display:none;
+}
+.cup{
+    display:none;
+}
+.tea{
+    display:none;}
+.rl{
+    display:none;}
+.sl{
+    display:none;}
+.flav{
+    display:none;}
+.lemjuice{
+    display:none;
+    height:300px;
+    width:300px;
+}
+.closedjar{
+    display:none;}
+
+.finalpro{
+    display:none;}
+.strawberrylemon{
+    display:none;}
+
+.strawlemjuice{
+display:none;
+width:400px;
+height:400px;
+}
+.finalproductofstrawlemon{
+    display:none;
+    width:600px;
+    height:600px;}
+.heat{
+    display:none;}
+.boil{
+    display:none;}
+.good{
+    display:none;}
+.teakettle{
+    display:none;
+    height:500px;
+    width:500px;}
+.finishgreenteap{
+    display:none;}
+.finishprogt{
+    display:none;
+    height:500px;
+    width:600px;}
+.donegtp{
+    display:none;}
+.pftp{
+    display:none;}
+.heat2{
+    display:none;}
+.boiling{
+    display:none;
+height:500px;
+width:500px;}
+.woop{
+    display:none;}
+.wholep{
+    display:none;
+    width:400px;
+    height:400px;
+}
+.cutp{
+    display:none;
+    width:400px;
+    height:400px;
+}
+.ren{
+    display:none;
+}
+.rna{
+    display:none;
+}
+.teakettle2{
+    display:none;
+    height:500px;
+    width:500px;}
+.ren2{
+    display:none;
+}
+.oneyear{
+    display:none;
+    height:500px;
+    width:500px;}
+.woop2{
+    display:none;}
